@@ -1,10 +1,9 @@
 Solar-system-live Demo
 
-Build a visually appealing and interactive solar system model using HTML, CSS, and JavaScript. 
-This project will represent the Sun, planets, and their orbits, showcasing their movements and relative sizes.
+•	Developed an interactive solar system model with CSS animations for realistic planetary orbits and varying speeds.
+•	Styled planets with distinct images and sizes, simulating the solar system with a responsive layout.
+•	Optimized animations for performance across devices and browsers using @keyframes and absolute positioning.
+•	Conducted thorough testing, including unit tests and integration tests, to ensure system reliability. 
 
-Features :-
-*The Sun is at the center, with planets orbiting it.Planets have different sizes and colors to differentiate them and Planets revolve around the 
-Sun at different speeds (to mimic the real solar system's orbital periods).
 
 Here is the live link to it :- https://incomparable-stroopwafel-9e463b.netlify.app/
